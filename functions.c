@@ -12,4 +12,5 @@ int main() {
     printf("Hello from main function\n");
     AFunction();
     AnotherFunction();
+    return 0;
 }
